@@ -9,7 +9,7 @@
       <g:title>Two-bedroom apartment near Clapham Common</g:title>
       <g:link>https://london-property-demo.com/properties/two-bedroom-apartment-near-clapham-common</g:link>
       <g:image_link>https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg</g:image_link>
-      <g:price>725000 GBP</g:price>
+      <g:price>725000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Clapham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -22,7 +22,7 @@ Area: Clapham | Listing type: For sale | Property type: Apartment | Condition: n
       <g:title>Victorian terrace house in East Dulwich</g:title>
       <g:link>https://london-property-demo.com/properties/victorian-terrace-house-in-east-dulwich</g:link>
       <g:image_link>https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg</g:image_link>
-      <g:price>975000 GBP</g:price>
+      <g:price>975000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Terraced house in East Dulwich with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -35,7 +35,7 @@ Area: East Dulwich | Listing type: For sale | Property type: Terraced house | Co
       <g:title>Modern riverside apartment in Battersea</g:title>
       <g:link>https://london-property-demo.com/properties/modern-riverside-apartment-in-battersea</g:link>
       <g:image_link>https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg</g:image_link>
-      <g:price>850000 GBP</g:price>
+      <g:price>850000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Battersea with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -48,7 +48,7 @@ Area: Battersea | Listing type: For sale | Property type: Apartment | Condition:
       <g:title>One-bedroom flat in West Hampstead</g:title>
       <g:link>https://london-property-demo.com/properties/one-bedroom-flat-in-west-hampstead</g:link>
       <g:image_link>https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg</g:image_link>
-      <g:price>2300 GBP</g:price>
+      <g:price>2300</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in West Hampstead with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -61,7 +61,7 @@ Area: West Hampstead | Listing type: To rent | Property type: Flat | Condition: 
       <g:title>Family home near Wimbledon Village</g:title>
       <g:link>https://london-property-demo.com/properties/family-home-near-wimbledon-village</g:link>
       <g:image_link>https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg</g:image_link>
-      <g:price>1450000 GBP</g:price>
+      <g:price>1450000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Wimbledon with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -74,7 +74,7 @@ Area: Wimbledon | Listing type: For sale | Property type: House | Condition: new
       <g:title>Period conversion flat in Islington</g:title>
       <g:link>https://london-property-demo.com/properties/period-conversion-flat-in-islington</g:link>
       <g:image_link>https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg</g:image_link>
-      <g:price>650000 GBP</g:price>
+      <g:price>650000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Islington with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -87,7 +87,7 @@ Area: Islington | Listing type: For sale | Property type: Flat | Condition: new 
       <g:title>Contemporary apartment in Canada Water</g:title>
       <g:link>https://london-property-demo.com/properties/contemporary-apartment-in-canada-water</g:link>
       <g:image_link>https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg</g:image_link>
-      <g:price>2850 GBP</g:price>
+      <g:price>2850</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Canada Water with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -100,7 +100,7 @@ Area: Canada Water | Listing type: To rent | Property type: Apartment | Conditio
       <g:title>Townhouse close to Chiswick High Road</g:title>
       <g:link>https://london-property-demo.com/properties/townhouse-close-to-chiswick-high-road</g:link>
       <g:image_link>https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg</g:image_link>
-      <g:price>1325000 GBP</g:price>
+      <g:price>1325000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Townhouse in Chiswick with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -113,7 +113,7 @@ Area: Chiswick | Listing type: For sale | Property type: Townhouse | Condition: 
       <g:title>Studio apartment in Marylebone</g:title>
       <g:link>https://london-property-demo.com/properties/studio-apartment-in-marylebone</g:link>
       <g:image_link>https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg</g:image_link>
-      <g:price>1950 GBP</g:price>
+      <g:price>1950</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Studio in Marylebone with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -126,7 +126,7 @@ Area: Marylebone | Listing type: To rent | Property type: Studio | Condition: ne
       <g:title>Three-bedroom maisonette in Putney</g:title>
       <g:link>https://london-property-demo.com/properties/three-bedroom-maisonette-in-putney</g:link>
       <g:image_link>https://images.pexels.com/photos/1457841/pexels-photo-1457841.jpeg</g:image_link>
-      <g:price>875000 GBP</g:price>
+      <g:price>875000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Maisonette in Putney with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -139,7 +139,7 @@ Area: Putney | Listing type: For sale | Property type: Maisonette | Condition: n
       <g:title>Garden flat in Balham</g:title>
       <g:link>https://london-property-demo.com/properties/garden-flat-in-balham</g:link>
       <g:image_link>https://images.pexels.com/photos/2089698/pexels-photo-2089698.jpeg</g:image_link>
-      <g:price>700000 GBP</g:price>
+      <g:price>700000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Garden flat in Balham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -152,7 +152,7 @@ Area: Balham | Listing type: For sale | Property type: Garden flat | Condition: 
       <g:title>Luxury apartment near Sloane Square</g:title>
       <g:link>https://london-property-demo.com/properties/luxury-apartment-near-sloane-square</g:link>
       <g:image_link>https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg</g:image_link>
-      <g:price>6500 GBP</g:price>
+      <g:price>6500</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Chelsea with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -165,7 +165,7 @@ Area: Chelsea | Listing type: To rent | Property type: Apartment | Condition: ne
       <g:title>Detached family home in Bromley</g:title>
       <g:link>https://london-property-demo.com/properties/detached-family-home-in-bromley</g:link>
       <g:image_link>https://images.pexels.com/photos/259962/pexels-photo-259962.jpeg</g:image_link>
-      <g:price>1100000 GBP</g:price>
+      <g:price>1100000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Detached house in Bromley with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -178,7 +178,7 @@ Area: Bromley | Listing type: For sale | Property type: Detached house | Conditi
       <g:title>Warehouse-style apartment in London Bridge</g:title>
       <g:link>https://london-property-demo.com/properties/warehouse-style-apartment-in-london-bridge</g:link>
       <g:image_link>https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg</g:image_link>
-      <g:price>925000 GBP</g:price>
+      <g:price>925000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in London Bridge with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -191,7 +191,7 @@ Area: London Bridge | Listing type: For sale | Property type: Apartment | Condit
       <g:title>New-build flat in Peckham Rye</g:title>
       <g:link>https://london-property-demo.com/properties/new-build-flat-in-peckham-rye</g:link>
       <g:image_link>https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg</g:image_link>
-      <g:price>525000 GBP</g:price>
+      <g:price>525000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Peckham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -204,7 +204,7 @@ Area: Peckham | Listing type: For sale | Property type: Flat | Condition: new | 
       <g:title>Edwardian house in Crouch End</g:title>
       <g:link>https://london-property-demo.com/properties/edwardian-house-in-crouch-end</g:link>
       <g:image_link>https://images.pexels.com/photos/7031408/pexels-photo-7031408.jpeg</g:image_link>
-      <g:price>1250000 GBP</g:price>
+      <g:price>1250000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Crouch End with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -217,7 +217,7 @@ Area: Crouch End | Listing type: For sale | Property type: House | Condition: ne
       <g:title>Penthouse apartment in Fulham</g:title>
       <g:link>https://london-property-demo.com/properties/penthouse-apartment-in-fulham</g:link>
       <g:image_link>https://images.pexels.com/photos/813692/pexels-photo-813692.jpeg</g:image_link>
-      <g:price>1750000 GBP</g:price>
+      <g:price>1750000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Penthouse in Fulham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -230,7 +230,7 @@ Area: Fulham | Listing type: For sale | Property type: Penthouse | Condition: ne
       <g:title>Two-bedroom flat near Blackheath Village</g:title>
       <g:link>https://london-property-demo.com/properties/two-bedroom-flat-near-blackheath-village</g:link>
       <g:image_link>https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg</g:image_link>
-      <g:price>625000 GBP</g:price>
+      <g:price>625000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Blackheath with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -243,7 +243,7 @@ Area: Blackheath | Listing type: For sale | Property type: Flat | Condition: new
       <g:title>Modern family home in Kingston</g:title>
       <g:link>https://london-property-demo.com/properties/modern-family-home-in-kingston</g:link>
       <g:image_link>https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg</g:image_link>
-      <g:price>950000 GBP</g:price>
+      <g:price>950000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Kingston with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -256,7 +256,7 @@ Area: Kingston | Listing type: For sale | Property type: House | Condition: new 
       <g:title>High-spec apartment in Hammersmith</g:title>
       <g:link>https://london-property-demo.com/properties/high-spec-apartment-in-hammersmith</g:link>
       <g:image_link>https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg</g:image_link>
-      <g:price>3200 GBP</g:price>
+      <g:price>3200</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Hammersmith with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -269,7 +269,7 @@ Area: Hammersmith | Listing type: To rent | Property type: Apartment | Condition
       <g:title>Character cottage in Chislehurst</g:title>
       <g:link>https://london-property-demo.com/properties/character-cottage-in-chislehurst</g:link>
       <g:image_link>https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg</g:image_link>
-      <g:price>795000 GBP</g:price>
+      <g:price>795000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Cottage in Chislehurst with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -282,7 +282,7 @@ Area: Chislehurst | Listing type: For sale | Property type: Cottage | Condition:
       <g:title>Spacious flat in Highgate</g:title>
       <g:link>https://london-property-demo.com/properties/spacious-flat-in-highgate</g:link>
       <g:image_link>https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg</g:image_link>
-      <g:price>780000 GBP</g:price>
+      <g:price>780000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Highgate with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -295,7 +295,7 @@ Area: Highgate | Listing type: For sale | Property type: Flat | Condition: new |
       <g:title>Three-bedroom house in Tooting</g:title>
       <g:link>https://london-property-demo.com/properties/three-bedroom-house-in-tooting</g:link>
       <g:image_link>https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg</g:image_link>
-      <g:price>825000 GBP</g:price>
+      <g:price>825000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Tooting with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -308,7 +308,7 @@ Area: Tooting | Listing type: For sale | Property type: House | Condition: new |
       <g:title>Apartment near Battersea Park</g:title>
       <g:link>https://london-property-demo.com/properties/apartment-near-battersea-park</g:link>
       <g:image_link>https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg</g:image_link>
-      <g:price>3750 GBP</g:price>
+      <g:price>3750</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Battersea Park with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -321,7 +321,7 @@ Area: Battersea Park | Listing type: To rent | Property type: Apartment | Condit
       <g:title>Four-bedroom home in West Dulwich</g:title>
       <g:link>https://london-property-demo.com/properties/four-bedroom-home-in-west-dulwich</g:link>
       <g:image_link>https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg</g:image_link>
-      <g:price>1185000 GBP</g:price>
+      <g:price>1185000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in West Dulwich with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -334,7 +334,7 @@ Area: West Dulwich | Listing type: For sale | Property type: House | Condition: 
       <g:title>Conversion flat in Queen's Park</g:title>
       <g:link>https://london-property-demo.com/properties/conversion-flat-in-queen-s-park</g:link>
       <g:image_link>https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg</g:image_link>
-      <g:price>690000 GBP</g:price>
+      <g:price>690000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Queen's Park with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -347,7 +347,7 @@ Area: Queen's Park | Listing type: For sale | Property type: Flat | Condition: n
       <g:title>Modern apartment in Greenwich</g:title>
       <g:link>https://london-property-demo.com/properties/modern-apartment-in-greenwich</g:link>
       <g:image_link>https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg</g:image_link>
-      <g:price>575000 GBP</g:price>
+      <g:price>575000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Greenwich with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -360,7 +360,7 @@ Area: Greenwich | Listing type: For sale | Property type: Apartment | Condition:
       <g:title>Terraced house in Streatham</g:title>
       <g:link>https://london-property-demo.com/properties/terraced-house-in-streatham</g:link>
       <g:image_link>https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg</g:image_link>
-      <g:price>735000 GBP</g:price>
+      <g:price>735000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Terraced house in Streatham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -373,7 +373,7 @@ Area: Streatham | Listing type: For sale | Property type: Terraced house | Condi
       <g:title>One-bedroom apartment in Notting Hill</g:title>
       <g:link>https://london-property-demo.com/properties/one-bedroom-apartment-in-notting-hill</g:link>
       <g:image_link>https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg</g:image_link>
-      <g:price>2950 GBP</g:price>
+      <g:price>2950</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Notting Hill with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -386,7 +386,7 @@ Area: Notting Hill | Listing type: To rent | Property type: Apartment | Conditio
       <g:title>Substantial home in Muswell Hill</g:title>
       <g:link>https://london-property-demo.com/properties/substantial-home-in-muswell-hill</g:link>
       <g:image_link>https://images.pexels.com/photos/1457841/pexels-photo-1457841.jpeg</g:image_link>
-      <g:price>1500000 GBP</g:price>
+      <g:price>1500000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Muswell Hill with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -399,7 +399,7 @@ Area: Muswell Hill | Listing type: For sale | Property type: House | Condition: 
       <g:title>Duplex apartment in Kennington</g:title>
       <g:link>https://london-property-demo.com/properties/duplex-apartment-in-kennington</g:link>
       <g:image_link>https://images.pexels.com/photos/2089698/pexels-photo-2089698.jpeg</g:image_link>
-      <g:price>875000 GBP</g:price>
+      <g:price>875000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Duplex in Kennington with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -412,7 +412,7 @@ Area: Kennington | Listing type: For sale | Property type: Duplex | Condition: n
       <g:title>Two-bedroom flat in Bayswater</g:title>
       <g:link>https://london-property-demo.com/properties/two-bedroom-flat-in-bayswater</g:link>
       <g:image_link>https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg</g:image_link>
-      <g:price>3100 GBP</g:price>
+      <g:price>3100</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Bayswater with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -425,7 +425,7 @@ Area: Bayswater | Listing type: To rent | Property type: Flat | Condition: new |
       <g:title>Family house in Beckenham</g:title>
       <g:link>https://london-property-demo.com/properties/family-house-in-beckenham</g:link>
       <g:image_link>https://images.pexels.com/photos/259962/pexels-photo-259962.jpeg</g:image_link>
-      <g:price>895000 GBP</g:price>
+      <g:price>895000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Beckenham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -438,7 +438,7 @@ Area: Beckenham | Listing type: For sale | Property type: House | Condition: new
       <g:title>Modern flat in Finchley</g:title>
       <g:link>https://london-property-demo.com/properties/modern-flat-in-finchley</g:link>
       <g:image_link>https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg</g:image_link>
-      <g:price>540000 GBP</g:price>
+      <g:price>540000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Finchley with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -451,7 +451,7 @@ Area: Finchley | Listing type: For sale | Property type: Flat | Condition: new |
       <g:title>Apartment in St John's Wood</g:title>
       <g:link>https://london-property-demo.com/properties/apartment-in-st-john-s-wood</g:link>
       <g:image_link>https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg</g:image_link>
-      <g:price>1250000 GBP</g:price>
+      <g:price>1250000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in St John's Wood with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -464,7 +464,7 @@ Area: St John's Wood | Listing type: For sale | Property type: Apartment | Condi
       <g:title>Three-bedroom home in Earlsfield</g:title>
       <g:link>https://london-property-demo.com/properties/three-bedroom-home-in-earlsfield</g:link>
       <g:image_link>https://images.pexels.com/photos/7031408/pexels-photo-7031408.jpeg</g:image_link>
-      <g:price>925000 GBP</g:price>
+      <g:price>925000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Earlsfield with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -477,7 +477,7 @@ Area: Earlsfield | Listing type: For sale | Property type: House | Condition: ne
       <g:title>Loft-style apartment in Shoreditch</g:title>
       <g:link>https://london-property-demo.com/properties/loft-style-apartment-in-shoreditch</g:link>
       <g:image_link>https://images.pexels.com/photos/813692/pexels-photo-813692.jpeg</g:image_link>
-      <g:price>3600 GBP</g:price>
+      <g:price>3600</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Shoreditch with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -490,7 +490,7 @@ Area: Shoreditch | Listing type: To rent | Property type: Apartment | Condition:
       <g:title>Detached house in Hayes</g:title>
       <g:link>https://london-property-demo.com/properties/detached-house-in-hayes</g:link>
       <g:image_link>https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg</g:image_link>
-      <g:price>775000 GBP</g:price>
+      <g:price>775000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Detached house in Hayes with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -503,7 +503,7 @@ Area: Hayes | Listing type: For sale | Property type: Detached house | Condition
       <g:title>Two-bedroom flat in Sydenham</g:title>
       <g:link>https://london-property-demo.com/properties/two-bedroom-flat-in-sydenham</g:link>
       <g:image_link>https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg</g:image_link>
-      <g:price>450000 GBP</g:price>
+      <g:price>450000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Sydenham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -516,7 +516,7 @@ Area: Sydenham | Listing type: For sale | Property type: Flat | Condition: new |
       <g:title>Family home in Southfields</g:title>
       <g:link>https://london-property-demo.com/properties/family-home-in-southfields</g:link>
       <g:image_link>https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg</g:image_link>
-      <g:price>1050000 GBP</g:price>
+      <g:price>1050000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Southfields with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -529,7 +529,7 @@ Area: Southfields | Listing type: For sale | Property type: House | Condition: n
       <g:title>Central apartment in Fitzrovia</g:title>
       <g:link>https://london-property-demo.com/properties/central-apartment-in-fitzrovia</g:link>
       <g:image_link>https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg</g:image_link>
-      <g:price>4200 GBP</g:price>
+      <g:price>4200</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Fitzrovia with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -542,7 +542,7 @@ Area: Fitzrovia | Listing type: To rent | Property type: Apartment | Condition: 
       <g:title>Period house in Herne Hill</g:title>
       <g:link>https://london-property-demo.com/properties/period-house-in-herne-hill</g:link>
       <g:image_link>https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg</g:image_link>
-      <g:price>1150000 GBP</g:price>
+      <g:price>1150000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Herne Hill with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -555,7 +555,7 @@ Area: Herne Hill | Listing type: For sale | Property type: House | Condition: ne
       <g:title>Apartment near Canary Wharf</g:title>
       <g:link>https://london-property-demo.com/properties/apartment-near-canary-wharf</g:link>
       <g:image_link>https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg</g:image_link>
-      <g:price>3350 GBP</g:price>
+      <g:price>3350</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Canary Wharf with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -568,7 +568,7 @@ Area: Canary Wharf | Listing type: To rent | Property type: Apartment | Conditio
       <g:title>Mews house in Kensington</g:title>
       <g:link>https://london-property-demo.com/properties/mews-house-in-kensington</g:link>
       <g:image_link>https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg</g:image_link>
-      <g:price>2200000 GBP</g:price>
+      <g:price>2200000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Mews house in Kensington with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -581,7 +581,7 @@ Area: Kensington | Listing type: For sale | Property type: Mews house | Conditio
       <g:title>One-bedroom flat in Raynes Park</g:title>
       <g:link>https://london-property-demo.com/properties/one-bedroom-flat-in-raynes-park</g:link>
       <g:image_link>https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg</g:image_link>
-      <g:price>395000 GBP</g:price>
+      <g:price>395000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Raynes Park with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -594,7 +594,7 @@ Area: Raynes Park | Listing type: For sale | Property type: Flat | Condition: ne
       <g:title>Large house in Dulwich Village</g:title>
       <g:link>https://london-property-demo.com/properties/large-house-in-dulwich-village</g:link>
       <g:image_link>https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg</g:image_link>
-      <g:price>1850000 GBP</g:price>
+      <g:price>1850000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>House in Dulwich Village with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -607,7 +607,7 @@ Area: Dulwich Village | Listing type: For sale | Property type: House | Conditio
       <g:title>Apartment in Acton</g:title>
       <g:link>https://london-property-demo.com/properties/apartment-in-acton</g:link>
       <g:image_link>https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg</g:image_link>
-      <g:price>475000 GBP</g:price>
+      <g:price>475000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Apartment in Acton with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -620,7 +620,7 @@ Area: Acton | Listing type: For sale | Property type: Apartment | Condition: new
       <g:title>Flat near Crystal Palace Park</g:title>
       <g:link>https://london-property-demo.com/properties/flat-near-crystal-palace-park</g:link>
       <g:image_link>https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg</g:image_link>
-      <g:price>500000 GBP</g:price>
+      <g:price>500000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Flat in Crystal Palace with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -633,7 +633,7 @@ Area: Crystal Palace | Listing type: For sale | Property type: Flat | Condition:
       <g:title>Riverside penthouse in Wandsworth</g:title>
       <g:link>https://london-property-demo.com/properties/riverside-penthouse-in-wandsworth</g:link>
       <g:image_link>https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg</g:image_link>
-      <g:price>1600000 GBP</g:price>
+      <g:price>1600000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Penthouse in Wandsworth with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
@@ -646,7 +646,7 @@ Area: Wandsworth | Listing type: For sale | Property type: Penthouse | Condition
       <g:title>Townhouse in Parsons Green</g:title>
       <g:link>https://london-property-demo.com/properties/townhouse-in-parsons-green</g:link>
       <g:image_link>https://images.pexels.com/photos/1457841/pexels-photo-1457841.jpeg</g:image_link>
-      <g:price>1350000 GBP</g:price>
+      <g:price>1350000</g:price>
       <g:brand>London Property Demo</g:brand>
       <g:availability>in_stock</g:availability>
       <g:description>Townhouse in Parsons Green with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.
