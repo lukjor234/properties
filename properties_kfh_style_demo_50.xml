@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>London Property Demo Feed</title>
+    <link>https://london-property-demo.com</link>
+    <description>Demo XML feed for a London estate agency property catalogue, aligned with sales and lettings journeys.</description>
+    <item>
+      <g:id>PROP-00001</g:id>
+      <g:title>Two-bedroom apartment near Clapham Common</g:title>
+      <g:link>https://london-property-demo.com/properties/two-bedroom-apartment-near-clapham-common</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>725000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Clapham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00001</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Clapham</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00002</g:id>
+      <g:title>Victorian terrace house in East Dulwich</g:title>
+      <g:link>https://london-property-demo.com/properties/victorian-terrace-house-in-east-dulwich</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>975000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Terraced house in East Dulwich with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Terraced house &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00002</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>East Dulwich</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Terraced house</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00003</g:id>
+      <g:title>Modern riverside apartment in Battersea</g:title>
+      <g:link>https://london-property-demo.com/properties/modern-riverside-apartment-in-battersea</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>850000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Battersea with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00003</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Battersea</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00004</g:id>
+      <g:title>One-bedroom flat in West Hampstead</g:title>
+      <g:link>https://london-property-demo.com/properties/one-bedroom-flat-in-west-hampstead</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>2300.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in West Hampstead with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00004</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>West Hampstead</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00005</g:id>
+      <g:title>Family home near Wimbledon Village</g:title>
+      <g:link>https://london-property-demo.com/properties/family-home-near-wimbledon-village</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1450000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Wimbledon with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00005</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Wimbledon</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00006</g:id>
+      <g:title>Period conversion flat in Islington</g:title>
+      <g:link>https://london-property-demo.com/properties/period-conversion-flat-in-islington</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>650000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Islington with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00006</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Islington</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00007</g:id>
+      <g:title>Contemporary apartment in Canada Water</g:title>
+      <g:link>https://london-property-demo.com/properties/contemporary-apartment-in-canada-water</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607687644-c7171b42498b?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>2850.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Canada Water with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00007</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Canada Water</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00008</g:id>
+      <g:title>Townhouse close to Chiswick High Road</g:title>
+      <g:link>https://london-property-demo.com/properties/townhouse-close-to-chiswick-high-road</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1325000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Townhouse in Chiswick with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Townhouse &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00008</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Chiswick</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Townhouse</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00009</g:id>
+      <g:title>Studio apartment in Marylebone</g:title>
+      <g:link>https://london-property-demo.com/properties/studio-apartment-in-marylebone</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1950.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Studio in Marylebone with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Studio &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00009</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Marylebone</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Studio</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00010</g:id>
+      <g:title>Three-bedroom maisonette in Putney</g:title>
+      <g:link>https://london-property-demo.com/properties/three-bedroom-maisonette-in-putney</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>875000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Maisonette in Putney with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Maisonette &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00010</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Putney</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Maisonette</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00011</g:id>
+      <g:title>Garden flat in Balham</g:title>
+      <g:link>https://london-property-demo.com/properties/garden-flat-in-balham</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600585152915-d208bec867a1?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>700000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Garden flat in Balham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Garden flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00011</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Balham</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Garden flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00012</g:id>
+      <g:title>Luxury apartment near Sloane Square</g:title>
+      <g:link>https://london-property-demo.com/properties/luxury-apartment-near-sloane-square</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566752229-250ed79470c0?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>6500.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Chelsea with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00012</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Chelsea</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00013</g:id>
+      <g:title>Detached family home in Bromley</g:title>
+      <g:link>https://london-property-demo.com/properties/detached-family-home-in-bromley</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1100000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Detached house in Bromley with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Detached house &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00013</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Bromley</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Detached house</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00014</g:id>
+      <g:title>Warehouse-style apartment in London Bridge</g:title>
+      <g:link>https://london-property-demo.com/properties/warehouse-style-apartment-in-london-bridge</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1560448075-bb485b067938?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>925000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in London Bridge with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00014</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>London Bridge</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00015</g:id>
+      <g:title>New-build flat in Peckham Rye</g:title>
+      <g:link>https://london-property-demo.com/properties/new-build-flat-in-peckham-rye</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>525000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Peckham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00015</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Peckham</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00016</g:id>
+      <g:title>Edwardian house in Crouch End</g:title>
+      <g:link>https://london-property-demo.com/properties/edwardian-house-in-crouch-end</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1560185127-6ed189bf02f4?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1250000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Crouch End with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00016</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Crouch End</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00017</g:id>
+      <g:title>Penthouse apartment in Fulham</g:title>
+      <g:link>https://london-property-demo.com/properties/penthouse-apartment-in-fulham</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1560185008-b033106af5c3?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1750000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Penthouse in Fulham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Penthouse &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00017</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Fulham</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Penthouse</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00018</g:id>
+      <g:title>Two-bedroom flat near Blackheath Village</g:title>
+      <g:link>https://london-property-demo.com/properties/two-bedroom-flat-near-blackheath-village</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>625000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Blackheath with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00018</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Blackheath</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00019</g:id>
+      <g:title>Modern family home in Kingston</g:title>
+      <g:link>https://london-property-demo.com/properties/modern-family-home-in-kingston</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>950000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Kingston with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00019</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Kingston</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00020</g:id>
+      <g:title>High-spec apartment in Hammersmith</g:title>
+      <g:link>https://london-property-demo.com/properties/high-spec-apartment-in-hammersmith</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>3200.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Hammersmith with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00020</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Hammersmith</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00021</g:id>
+      <g:title>Character cottage in Chislehurst</g:title>
+      <g:link>https://london-property-demo.com/properties/character-cottage-in-chislehurst</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1598228723793-52759bba239c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>795000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Cottage in Chislehurst with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Cottage &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00021</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Chislehurst</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Cottage</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00022</g:id>
+      <g:title>Spacious flat in Highgate</g:title>
+      <g:link>https://london-property-demo.com/properties/spacious-flat-in-highgate</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>780000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Highgate with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00022</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Highgate</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00023</g:id>
+      <g:title>Three-bedroom house in Tooting</g:title>
+      <g:link>https://london-property-demo.com/properties/three-bedroom-house-in-tooting</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1605146769289-440113cc3d00?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>825000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Tooting with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00023</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Tooting</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00024</g:id>
+      <g:title>Apartment near Battersea Park</g:title>
+      <g:link>https://london-property-demo.com/properties/apartment-near-battersea-park</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566753151-384129cf4e3e?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>3750.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Battersea Park with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00024</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Battersea Park</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00025</g:id>
+      <g:title>Four-bedroom home in West Dulwich</g:title>
+      <g:link>https://london-property-demo.com/properties/four-bedroom-home-in-west-dulwich</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600585153861-0e42f4f1d6f0?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1185000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in West Dulwich with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00025</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>West Dulwich</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00026</g:id>
+      <g:title>Conversion flat in Queen's Park</g:title>
+      <g:link>https://london-property-demo.com/properties/conversion-flat-in-queen-s-park</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607688066-890987f18a86?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>690000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Queen's Park with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00026</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Queen's Park</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00027</g:id>
+      <g:title>Modern apartment in Greenwich</g:title>
+      <g:link>https://london-property-demo.com/properties/modern-apartment-in-greenwich</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566752734-2a0ed97c41d6?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>575000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Greenwich with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00027</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Greenwich</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00028</g:id>
+      <g:title>Terraced house in Streatham</g:title>
+      <g:link>https://london-property-demo.com/properties/terraced-house-in-streatham</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607687926-730e5c2a1f16?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>735000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Terraced house in Streatham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Terraced house &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00028</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Streatham</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Terraced house</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00029</g:id>
+      <g:title>One-bedroom apartment in Notting Hill</g:title>
+      <g:link>https://london-property-demo.com/properties/one-bedroom-apartment-in-notting-hill</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>2950.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Notting Hill with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00029</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Notting Hill</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00030</g:id>
+      <g:title>Substantial home in Muswell Hill</g:title>
+      <g:link>https://london-property-demo.com/properties/substantial-home-in-muswell-hill</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566753051-f0b89df2dd90?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1500000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Muswell Hill with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00030</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Muswell Hill</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00031</g:id>
+      <g:title>Duplex apartment in Kennington</g:title>
+      <g:link>https://london-property-demo.com/properties/duplex-apartment-in-kennington</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607687938-0f2edbfa81c6?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>875000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Duplex in Kennington with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Duplex &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00031</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Kennington</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Duplex</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00032</g:id>
+      <g:title>Two-bedroom flat in Bayswater</g:title>
+      <g:link>https://london-property-demo.com/properties/two-bedroom-flat-in-bayswater</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>3100.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Bayswater with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00032</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Bayswater</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00033</g:id>
+      <g:title>Family house in Beckenham</g:title>
+      <g:link>https://london-property-demo.com/properties/family-house-in-beckenham</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>895000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Beckenham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00033</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Beckenham</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00034</g:id>
+      <g:title>Modern flat in Finchley</g:title>
+      <g:link>https://london-property-demo.com/properties/modern-flat-in-finchley</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607688960-e095ff83135c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>540000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Finchley with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00034</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Finchley</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00035</g:id>
+      <g:title>Apartment in St John's Wood</g:title>
+      <g:link>https://london-property-demo.com/properties/apartment-in-st-john-s-wood</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566752412-6e38f09ed7c8?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1250000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in St John's Wood with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00035</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>St John's Wood</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00036</g:id>
+      <g:title>Three-bedroom home in Earlsfield</g:title>
+      <g:link>https://london-property-demo.com/properties/three-bedroom-home-in-earlsfield</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600585154342-0848d9d1e475?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>925000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Earlsfield with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00036</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Earlsfield</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00037</g:id>
+      <g:title>Loft-style apartment in Shoreditch</g:title>
+      <g:link>https://london-property-demo.com/properties/loft-style-apartment-in-shoreditch</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566752380-8a5c94af430f?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>3600.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Shoreditch with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00037</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Shoreditch</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00038</g:id>
+      <g:title>Detached house in Hayes</g:title>
+      <g:link>https://london-property-demo.com/properties/detached-house-in-hayes</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>775000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Detached house in Hayes with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Detached house &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00038</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Hayes</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Detached house</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00039</g:id>
+      <g:title>Two-bedroom flat in Sydenham</g:title>
+      <g:link>https://london-property-demo.com/properties/two-bedroom-flat-in-sydenham</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>450000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Sydenham with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00039</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Sydenham</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00040</g:id>
+      <g:title>Family home in Southfields</g:title>
+      <g:link>https://london-property-demo.com/properties/family-home-in-southfields</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1050000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Southfields with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00040</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Southfields</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00041</g:id>
+      <g:title>Central apartment in Fitzrovia</g:title>
+      <g:link>https://london-property-demo.com/properties/central-apartment-in-fitzrovia</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>4200.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Fitzrovia with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00041</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Fitzrovia</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00042</g:id>
+      <g:title>Period house in Herne Hill</g:title>
+      <g:link>https://london-property-demo.com/properties/period-house-in-herne-hill</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1150000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Herne Hill with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00042</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Herne Hill</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00043</g:id>
+      <g:title>Apartment near Canary Wharf</g:title>
+      <g:link>https://london-property-demo.com/properties/apartment-near-canary-wharf</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607687644-c7171b42498b?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>3350.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Canary Wharf with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; To rent</g:product_type>
+      <g:item_group_id>PROP-00043</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Canary Wharf</g:custom_label_0>
+      <g:custom_label_1>To rent</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00044</g:id>
+      <g:title>Mews house in Kensington</g:title>
+      <g:link>https://london-property-demo.com/properties/mews-house-in-kensington</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>2200000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Mews house in Kensington with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Mews house &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00044</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Kensington</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Mews house</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00045</g:id>
+      <g:title>One-bedroom flat in Raynes Park</g:title>
+      <g:link>https://london-property-demo.com/properties/one-bedroom-flat-in-raynes-park</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>395000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Raynes Park with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00045</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Raynes Park</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00046</g:id>
+      <g:title>Large house in Dulwich Village</g:title>
+      <g:link>https://london-property-demo.com/properties/large-house-in-dulwich-village</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1850000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[House in Dulwich Village with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; House &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00046</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Dulwich Village</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>House</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00047</g:id>
+      <g:title>Apartment in Acton</g:title>
+      <g:link>https://london-property-demo.com/properties/apartment-in-acton</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600585152915-d208bec867a1?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>475000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Apartment in Acton with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Apartment &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00047</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Acton</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Apartment</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00048</g:id>
+      <g:title>Flat near Crystal Palace Park</g:title>
+      <g:link>https://london-property-demo.com/properties/flat-near-crystal-palace-park</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1600566752229-250ed79470c0?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>500000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Flat in Crystal Palace with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Flat &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00048</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Crystal Palace</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Flat</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00049</g:id>
+      <g:title>Riverside penthouse in Wandsworth</g:title>
+      <g:link>https://london-property-demo.com/properties/riverside-penthouse-in-wandsworth</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1600000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Penthouse in Wandsworth with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Penthouse &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00049</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Wandsworth</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Penthouse</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>PROP-00050</g:id>
+      <g:title>Townhouse in Parsons Green</g:title>
+      <g:link>https://london-property-demo.com/properties/townhouse-in-parsons-green</g:link>
+      <g:image_link>https://images.unsplash.com/photo-1560448075-bb485b067938?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</g:image_link>
+      <g:price>1350000.00 GBP</g:price>
+      <g:brand>London Property Demo</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Townhouse in Parsons Green with a London-focused property search experience. Demo listing inspired by estate agency sales and lettings journeys.]]></g:description>
+      <g:product_type>Properties &gt; London &gt; Townhouse &gt; For sale</g:product_type>
+      <g:item_group_id>PROP-00050</g:item_group_id>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:custom_label_0>Parsons Green</g:custom_label_0>
+      <g:custom_label_1>For sale</g:custom_label_1>
+      <g:custom_label_2>Townhouse</g:custom_label_2>
+    </item>
+  </channel>
+</rss>
